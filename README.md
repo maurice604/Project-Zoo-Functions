@@ -20,37 +20,6 @@ Neste projeto, verificamos se você é capaz de:
 
 ---
 
-## Sumário
-
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [1. Implemente a função animalsByIds](#1-implemente-a-função-animalsByIds)
-  - [2. Implemente a função animalsOlderThan](#2-implemente-a-função-animalsOlderThan)
-  - [3. Implemente a função employeeByName](#3-implemente-a-função-employeeByName)
-  - [4. Implemente a função createEmployee](#4-implemente-a-função-createEmployee)
-  - [5. Implemente a função isManager](#5-implemente-a-função-isManager)
-  - [6. Implemente a função addEmployee](#6-implemente-a-função-addEmployee)
-  - [7. Implemente a função animalCount](#7-implemente-a-função-animalCount)
-  - [8. Implemente a função entryCalculator](#8-implemente-a-função-entryCalculator)
-  - [9. Implemente a função animalMap](#9-implemente-a-função-animalMap)
-  - [10. Implemente a função schedule](#10-implemente-a-função-schedule)
-  - [11. Implemente a função oldestFromFirstSpecies](#11-implemente-a-função-oldestFromFirstSpecies)
-  - [12. Implemente a função increasePrices](#12-implemente-a-função-increasePrices)
-  - [13. Implemente a função employeeCoverage](#13-implemente-a-função-employeeCoverage)
-- [Avisos finais](#avisos-finais)
-  - [Code Review](#revisando-um-pull-request)
-  - [Avaliação do projeto](#avaliação-do-projeto)
-  - [Ordem dos requisitos no avaliador automático](#ordem-dos-requisitos-no-avaliador-automático)
-
---- 
-
 ## Entregáveis
 
 ### O QUE DEVERÁ SER DESENVOLVIDO
@@ -148,7 +117,6 @@ Para **"entregar"** seu projeto, siga os passos a seguir:
   * No menu à direita, clique no _link_ **"Assignees"** e escolha **o seu usuário**
   * No menu à direita, clique no _link_ **"Reviewers"** e digite `students`, selecione o time `tryber/students-sd-08`
 
-Se ainda houver alguma dúvida sobre como entregar seu projeto, [aqui tem um video explicativo](https://vimeo.com/362189205).
 
 📌 **LEMBRE-SE DE GARANTIR QUE TODAS AS ISSUES COMENTADAS PELO CODECLIMATE ESTÃO RESOLVIDAS**
 
